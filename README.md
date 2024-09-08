@@ -13,9 +13,10 @@ Available via Amazon, both [BOOK](https://www.amazon.com/Azure-OpenAI-Service-Na
 
 # Updates
 
-* August 14, 2024 - [Self-service Provisioning (PTU)](https://azure.microsoft.com/en-us/blog/elevate-your-ai-deployments-more-efficiently-with-new-deployment-and-cost-management-solutions-for-azure-openai-service-including-self-service-provisioned/)
+* August 14, 2024 - [New Self-service Provisioning (PTU)](https://azure.microsoft.com/en-us/blog/elevate-your-ai-deployments-more-efficiently-with-new-deployment-and-cost-management-solutions-for-azure-openai-service-including-self-service-provisioned/) // Check pricing per model and region via official [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+* August 7, 2024 - [Introducing Structured Outputs and JSON Schemas](https://azure.microsoft.com/en-us/blog/announcing-a-new-openai-feature-for-developers-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
 * July 18, 2024 - [OpenAI’s fastest model, GPT-4o mini is now available on Azure AI](https://azure.microsoft.com/en-us/blog/openais-fastest-model-gpt-4o-mini-is-now-available-on-azure-ai/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
-* May 23. 2024 - [Introducing AI Content Safety](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-azure-ai-content-safety-helping-organizations-to/ba-p/3825744)
+* May 23, 2024 - [Introducing AI Content Safety](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-azure-ai-content-safety-helping-organizations-to/ba-p/3825744)
 * May 13, 2024 - [Introducing GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
 
 ![image](https://github.com/AdrianGonzalezSanchez/OReilly_AzureOpenAI_Book/assets/40721889/befea718-5c61-4db6-bec8-cda5c60b30ce)
