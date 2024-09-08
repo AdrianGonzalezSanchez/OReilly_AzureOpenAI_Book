@@ -1,7 +1,7 @@
 # OReilly_AzureOpenAI_Book
 
 Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applications book](https://learning.oreilly.com/library/view/azure-openai-service/9781098154981)
-Available via Amazon, both [BOOK](https://www.amazon.com/Azure-OpenAI-Service-Native-Applications/dp/1098154991) and [AUDIOBOOK](https://www.amazon.com/Azure-OpenAI-Service-Native-Applications/dp/B0DDZZ325H)
+ // Available via Amazon, both [BOOK](https://www.amazon.com/Azure-OpenAI-Service-Native-Applications/dp/1098154991) and [AUDIOBOOK](https://www.amazon.com/Azure-OpenAI-Service-Native-Applications/dp/B0DDZZ325H)
 
 # Resources
 
