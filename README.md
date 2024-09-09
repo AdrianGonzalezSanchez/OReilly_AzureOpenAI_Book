@@ -15,6 +15,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 * [Azure Cognitive Search Azure OpenAI Accelerator](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator)
 * [ChatGPT-like app with your data using Azure OpenAI and Azure AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
 * [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
+* [Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/README.md#new-content-09-sept-2024)
 
 # Updates
 
