@@ -6,11 +6,15 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 # Resources
 
 * [Azure OpenAI Models by Region](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#model-summary-table-and-region-availability)
-* [Azure Cognitive Search Azure OpenAI Accelerator](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator)
-* [ChatGPT-like app with your data using Azure OpenAI and Azure AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
 * [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137)
 * [LLM Fine Tuning Azure](https://github.com/microsoft/LLM-Fine-Tuning-Azure)
 * [Binary quantization in Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/binary-quantization-in-azure-ai-search-optimized-storage-and/ba-p/4221918)
+
+# Repositories
+
+* [Azure Cognitive Search Azure OpenAI Accelerator](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator)
+* [ChatGPT-like app with your data using Azure OpenAI and Azure AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+* [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
 
 # Updates
 
