@@ -30,4 +30,10 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 ![image](https://github.com/AdrianGonzalezSanchez/OReilly_AzureOpenAI_Book/assets/40721889/befea718-5c61-4db6-bec8-cda5c60b30ce)
 
+------------
+
+# Additional Information
+
+* My other O'Reilly book: [Kubernetes and Cloud Native Associate Study Guide](https://learning.oreilly.com/library/view/kubernetes-and-cloud/9781098138936)
+* Contact: [https://www.linkedin.com/in/adriangs86](https://www.linkedin.com/in/adriangs86)
 
