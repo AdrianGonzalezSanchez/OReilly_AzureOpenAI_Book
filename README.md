@@ -34,6 +34,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 # Additional Information
 
-* My other O'Reilly book: [Kubernetes and Cloud Native Associate Study Guide](https://learning.oreilly.com/library/view/kubernetes-and-cloud/9781098138936)
+* My other O'Reilly book: [Kubernetes and Cloud Native Associate (KCNA) Study Guide](https://learning.oreilly.com/library/view/kubernetes-and-cloud/9781098138936)
+* O'Reilly Training: [AI Project Management](https://learning.oreilly.com/live-events/ai-project-management/0636920095493/)
 * Contact: [https://www.linkedin.com/in/adriangs86](https://www.linkedin.com/in/adriangs86)
 
