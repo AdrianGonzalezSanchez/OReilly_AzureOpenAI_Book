@@ -17,7 +17,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 * [Azure OpenAI Embeddings QnA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
 * [Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/README.md#new-content-09-sept-2024)
 * [How to deploy and run an Azure OpenAI ChatGPT application on AKS via Bicep](https://github.com/Azure-Samples/aks-openai)
-* [AKS Store Demo](https://github.com/Azure-Samples/aks-store-demo)
+* [Azure Kubernetes Service (AKS) Store Demo](https://github.com/Azure-Samples/aks-store-demo)
 
 # Updates
 
