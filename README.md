@@ -21,6 +21,8 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 # Updates
 
+* September 18, 2024 - [Announcing Global Provisioned Managed Deployments](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/announcing-global-provisioned-managed-deployments-for-scaling/ba-p/4249224#:~:text=What%20is%20Global%20Provisioned%20Managed%3F%20Global%20Provisioned%20Managed,global%20infrastructure%20to%20serve%20provisioned%20traffic%20more%20efficiently)
+* September 12, 2024 - [Introducing o1: OpenAI’s new reasoning model series](https://azure.microsoft.com/en-us/blog/introducing-o1-openais-new-reasoning-model-series-for-developers-and-enterprises-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
 * August 14, 2024 - [New Self-service Provisioning (PTU)](https://azure.microsoft.com/en-us/blog/elevate-your-ai-deployments-more-efficiently-with-new-deployment-and-cost-management-solutions-for-azure-openai-service-including-self-service-provisioned/) // Check pricing per model and region via official [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 * August 7, 2024 - [Introducing Structured Outputs and JSON Schemas](https://azure.microsoft.com/en-us/blog/announcing-a-new-openai-feature-for-developers-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
 * July 18, 2024 - [OpenAI’s fastest model, GPT-4o mini is now available on Azure AI](https://azure.microsoft.com/en-us/blog/openais-fastest-model-gpt-4o-mini-is-now-available-on-azure-ai/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
