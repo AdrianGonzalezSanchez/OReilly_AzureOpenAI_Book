@@ -29,6 +29,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 * May 23, 2024 - [Introducing AI Content Safety](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-azure-ai-content-safety-helping-organizations-to/ba-p/3825744)
 * May 13, 2024 - [Introducing GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
 * April 4, 2024 - [Announcing cost-effective RAG at scale with Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/announcing-cost-effective-rag-at-scale-with-azure-ai-search/ba-p/4104961)
+* February 10, 2024 - [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
 
 ![image](https://github.com/AdrianGonzalezSanchez/OReilly_AzureOpenAI_Book/assets/40721889/befea718-5c61-4db6-bec8-cda5c60b30ce)
 
