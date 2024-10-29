@@ -21,6 +21,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 # Updates
 
+* October 28, 2024 - [New PTU minimums - Accelerate scale with Azure OpenAI Service Provisioned offering](https://azure.microsoft.com/en-us/blog/accelerate-scale-with-azure-openai-service-provisioned-offering/)
 * September 24, 2024 - [Azure OpenAI Service strengthened with Regional EU/US Data Zones](https://azure.microsoft.com/en-us/blog/enterprise-trust-in-azure-openai-service-strengthened-with-data-zones/)
 * September 18, 2024 - [Announcing Global Provisioned Managed Deployments](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/announcing-global-provisioned-managed-deployments-for-scaling/ba-p/4249224#:~:text=What%20is%20Global%20Provisioned%20Managed%3F%20Global%20Provisioned%20Managed,global%20infrastructure%20to%20serve%20provisioned%20traffic%20more%20efficiently)
 * September 12, 2024 - [Introducing o1: OpenAI’s new reasoning model series](https://azure.microsoft.com/en-us/blog/introducing-o1-openais-new-reasoning-model-series-for-developers-and-enterprises-on-azure/?msockid=2dbbd513aeff64be2c99c6a5afd46506)
