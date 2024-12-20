@@ -23,6 +23,7 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 * December 17, 2024 - [Announcing the o1 model in Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/announcing-the-o1-model-in-azure-openai-service-multimodal-reasoning-with-astounding-analysis/)
 * November 19, 2024 - [Azure AI Studio becomes Azure AI Foundry + Azure AI Agent Service](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/)
+* November 19, 2024 - [Introducing Azure AI Agent Service](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357)
 * November 15, 2024 - [Microsoft’s Agentic AI Frameworks: AutoGen and Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/microsofts-agentic-ai-frameworks-autogen-and-semantic-kernel/)
 * October 28, 2024 - [New PTU minimums - Accelerate scale with Azure OpenAI Service Provisioned offering](https://azure.microsoft.com/en-us/blog/accelerate-scale-with-azure-openai-service-provisioned-offering/)
 * September 24, 2024 - [Azure OpenAI Service strengthened with Regional EU/US Data Zones](https://azure.microsoft.com/en-us/blog/enterprise-trust-in-azure-openai-service-strengthened-with-data-zones/)
