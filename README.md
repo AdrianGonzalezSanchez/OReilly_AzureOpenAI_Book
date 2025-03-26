@@ -21,6 +21,9 @@ Official repo for the [O'Reilly Azure OpenAI Service for Cloud Native Applicatio
 
 # Updates
 
+* March 11, 2025 - [Announcing the Responses API and Computer-Using Agent in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/announcing-the-responses-api-and-computer-using-agent-in-azure-ai-foundry/)
+* February 27, 2025 - [Introducing GPT-4.5 in preview on Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/announcing-new-models-customization-tools-and-enterprise-agent-upgrades-in-azure-ai-foundry/)
+* January 31, 2025 - [Announcing the availability of the o3-mini reasoning model in Microsoft Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/announcing-the-availability-of-the-o3-mini-reasoning-model-in-microsoft-azure-openai-service/)
 * December 17, 2024 - [Announcing the o1 model in Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/announcing-the-o1-model-in-azure-openai-service-multimodal-reasoning-with-astounding-analysis/)
 * November 19, 2024 - [Azure AI Studio becomes Azure AI Foundry + Azure AI Agent Service](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/)
 * November 19, 2024 - [Introducing Azure AI Agent Service](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357)
